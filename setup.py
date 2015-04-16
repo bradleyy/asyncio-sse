@@ -11,7 +11,7 @@ with open('README.md') as readme:
 
 setup(
     name='asyncio-sse',
-    version='0.1',
+    version='0.1.1',
     author='Bruno Renié',
     author_email='bruno@renie.fr',
     url='https://github.com/brutasse/asyncio-sse',
